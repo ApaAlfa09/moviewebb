@@ -6,4 +6,5 @@ export interface Movie{
     duration?: number;
     director?: string;
     posterURL: string;
+    rating?: number;
 }

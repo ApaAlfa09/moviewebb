@@ -102,14 +102,22 @@ export default function MoviesDetails() {
                                 </p>
                             </div>
 
-                            {/* Rating ficticio */}
+                            {/* Rating */}
                             <div className="mt-8 p-6 bg-gray-700 rounded-xl">
                                 <div className="flex items-center justify-between">
                                     <span className="text-white font-bold text-lg">Rating IMDB:</span>
-                                    <div className="flex gap-1">
-                                        {[...Array(5)].map((_, i) => (
-                                            <span key={i} className="text-2xl">⭐</span>
-                                        ))}
+                                    <div className="flex items-center gap-2">
+                                        <div className="flex gap-1 text-2xl" aria-hidden>
+                                            {Array.from({ length: 5 }).map((_, i) => {
+                                                const filled = i < Math.round(movie.rating ?? 0);
+                                                return (
+                                                    <span key={i} className={filled ? 'text-yellow-400' : 'text-gray-500'}>
+                                                        {filled ? '★' : '☆'}
+                                                    </span>
+                                                );
+                                            })}
+                                        </div>
+                                        <span className="text-gray-200 font-bold">{(movie.rating ?? 0).toFixed(1)}/5</span>
                                     </div>
                                 </div>
                             </div>

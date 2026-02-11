@@ -6,7 +6,8 @@
     "year": "2024",
     "duration": 166,
     "director": "Denis Villeneuve",
-    "posterURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8b8R8l88Qje9dn9OE8PY05Nxl1X.jpg"
+    "posterURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8b8R8l88Qje9dn9OE8PY05Nxl1X.jpg",
+    "rating": 4.7
   },
   {
     "id": 2,
@@ -15,7 +16,8 @@
     "year": "2024",
     "duration": 128,
     "director": "Shawn Levy",
-    "posterURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg"
+    "posterURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
+    "rating": 4.0
   },
   {
     "id": 3,
@@ -24,7 +26,8 @@
     "year": "2024",
     "duration": 96,
     "director": "Kelsey Mann",
-    "posterURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg"
+    "posterURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg",
+    "rating": 4.3
   },
   {
     "id": 4,
@@ -33,7 +36,8 @@
     "year": "2023",
     "duration": 180,
     "director": "Christopher Nolan",
-    "posterURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ptpr0kGAckfQkJeJIt8st5dglvd.jpg"
+    "posterURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ptpr0kGAckfQkJeJIt8st5dglvd.jpg",
+    "rating": 4.9
   },
   {
     "id": 5,
@@ -42,7 +46,8 @@
     "year": "2024",
     "duration": 94,
     "director": "Mike Mitchell",
-    "posterURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kDp1vUBnMpe8ak4rjgl3cLELqjU.jpg"
+    "posterURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kDp1vUBnMpe8ak4rjgl3cLELqjU.jpg",
+    "rating": 4.0
   },
   {
     "id": 6,
@@ -51,7 +56,8 @@
     "year": "2022",
     "duration": 176,
     "director": "Matt Reeves",
-    "posterURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/74xTEgt7R36Fpooo50r9T25onhq.jpg"
+    "posterURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+    "rating": 4.2
   },
   {
     "id": 7,
@@ -60,7 +66,8 @@
     "year": "2023",
     "duration": 114,
     "director": "Greta Gerwig",
-    "posterURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg"
+    "posterURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+    "rating": 4.1
   },
   {
     "id": 8,
@@ -69,6 +76,27 @@
     "year": "2023",
     "duration": 116,
     "director": "Paul King",
-    "posterURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qhb1qOilapbapxWQn9jtRCMwXJF.jpg"
+    "posterURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qhb1qOilapbapxWQn9jtRCMwXJF.jpg",
+    "rating": 3.9
+  },
+  {
+    "id": 9,
+    "title": "Avengers Endegame",
+    "description": "Después de los devastadores eventos de 'Avengers: Infinity War', los Vengadores restantes se reúnen para revertir las acciones de Thanos y restaurar el orden en el universo.",
+    "year": "2019",
+    "duration": 181,
+    "director": "Anthony Russo, Joe Russo",
+    "posterURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/or06FN3Dka5tukK1e9sl16pB3iy.jpg",
+    "rating": 4.8
+  },
+  {
+    "id": 10,
+    "title": "Dragonball Super Broly",
+    "description": "El legendario guerrero Broly regresa con un poder inmenso que amenaza la paz del universo.",
+    "year": "2023",
+    "duration": 110,
+    "director": "Tatsuya Ishikura",
+    "posterURL": "https://image.tmdb.org/t/p/original/f03YksE4NggUjG75toz4H1YAGRf.jpg",
+    "rating": 4.0
   }
 ]

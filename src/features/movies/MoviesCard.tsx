@@ -9,9 +9,9 @@ export function MoviesCard({ movie }: { movie: Movie }) {
     <Link to={`/movies/${movie.id}`}>
       <div
         className="bg-gray-800 rounded-2xl shadow-xl overflow-hidden 
-               transform transition duration-300 
-               hover:scale-110 hover:shadow-2xl cursor-pointer 
-               border border-gray-700 hover:border-red-500 group h-full flex flex-col"
+                transform transition duration-300 
+                hover:scale-110 hover:shadow-2xl cursor-pointer 
+                border border-gray-700 hover:border-red-500 group h-full flex flex-col"
       >
         {/* Contenedor de imagen */}
         <div className="relative h-64  bg-gray-900">
