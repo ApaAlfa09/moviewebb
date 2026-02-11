@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Dune: Part Two",
+    "description": "Paul Atreides se une a Chani y a los Fremen mientras busca venganza contra los conspiradores que destruyeron a su familia.",
+    "year": "2024",
+    "duration": 166,
+    "director": "Denis Villeneuve",
+    "posterURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8b8R8l88Qje9dn9OE8PY05Nxl1X.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Deadpool & Wolverine",
+    "description": "Un apático Wade Wilson se afana en la vida civil hasta que una amenaza existencial lo obliga a formar equipo con un reacio Lobezno.",
+    "year": "2024",
+    "duration": 128,
+    "director": "Shawn Levy",
+    "posterURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Inside Out 2",
+    "description": "Riley entra en la adolescencia y su cuartel general sufre una repentina reforma para hacer espacio a algo totalmente inesperado: ¡nuevas emociones!",
+    "year": "2024",
+    "duration": 96,
+    "director": "Kelsey Mann",
+    "posterURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Oppenheimer",
+    "description": "La historia del físico estadounidense J. Robert Oppenheimer y su papel en el desarrollo de la bomba atómica.",
+    "year": "2023",
+    "duration": 180,
+    "director": "Christopher Nolan",
+    "posterURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ptpr0kGAckfQkJeJIt8st5dglvd.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Kung Fu Panda 4",
+    "description": "Po se prepara para convertirse en el líder espiritual del Valle de la Paz y busca a un sucesor como Guerrero del Dragón.",
+    "year": "2024",
+    "duration": 94,
+    "director": "Mike Mitchell",
+    "posterURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kDp1vUBnMpe8ak4rjgl3cLELqjU.jpg"
+  },
+  {
+    "id": 6,
+    "title": "The Batman",
+    "description": "En su segundo año luchando contra el crimen, Batman desenmascara la corrupción en Gotham City mientras persigue al Acertijo.",
+    "year": "2022",
+    "duration": 176,
+    "director": "Matt Reeves",
+    "posterURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/74xTEgt7R36Fpooo50r9T25onhq.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Barbie",
+    "description": "Barbie sufre una crisis que la lleva a cuestionar su mundo y su existencia, emprendiendo un viaje al mundo real.",
+    "year": "2023",
+    "duration": 114,
+    "director": "Greta Gerwig",
+    "posterURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Wonka",
+    "description": "Basada en el personaje que protagoniza 'Charlie y la fábrica de chocolate', cuenta la historia de cómo el joven Willy Wonka conoció a los Oompa-Loompas.",
+    "year": "2023",
+    "duration": 116,
+    "director": "Paul King",
+    "posterURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qhb1qOilapbapxWQn9jtRCMwXJF.jpg"
+  }
+]
